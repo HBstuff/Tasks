@@ -1,0 +1,17 @@
+There are 16 unique cars.
+Audi A3 hatchback - total cars: 14, with an average price of: 3603.36€, an average mileage of: 235051.0 and it has 10.82 average features.
+Audi A8 saloon / sedan - total cars: 5, with an average price of: 7760.0€, an average mileage of: 233225.67 and it has 10.76 average features.
+Audi A6 saloon / sedan - total cars: 11, with an average price of: 8613.36€, an average mileage of: 212211.0 and it has 10.86 average features.
+Audi A4 wagon - total cars: 12, with an average price of: 3825.42€, an average mileage of: 235887.22 and it has 10.85 average features.
+Audi A6 wagon - total cars: 19, with an average price of: 3462.53€, an average mileage of: 289431.38 and it has 10.83 average features.
+Audi Q7 suv / off-road - total cars: 7, with an average price of: 12628.57€, an average mileage of: 164500.0 and it has 10.97 average features.
+Audi S8 saloon / sedan - total cars: 1, with an average price of: 37000.0€, an average mileage of: 144000.0 and it has 17.5 average features.
+Audi TT coupe - total cars: 1, with an average price of: 5750.0€, an average mileage of: 230000.0 and it has 12.12 average features.
+Audi A6 ALLROAD wagon - total cars: 5, with an average price of: 5309.0€, an average mileage of: 307500.0 and it has 10.73 average features.
+Audi A4 saloon / sedan - total cars: 17, with an average price of: 5638.24€, an average mileage of: 205549.07 and it has 10.83 average features.
+Audi A5 SPORTBACK hatchback - total cars: 1, with an average price of: 9500.0€, an average mileage of: N/A and it has 8.0 average features.
+Audi Q5 suv / off-road - total cars: 1, with an average price of: 12900.0€, an average mileage of: 165000.0 and it has 10.86 average features.
+Audi SQ5 suv / off-road - total cars: 1, with an average price of: 18900.0€, an average mileage of: 93000.0 and it has 10.86 average features.
+Audi 80 saloon / sedan - total cars: 3, with an average price of: 966.67€, an average mileage of: 272132.0 and it has 8.38 average features.
+Audi 100 saloon / sedan - total cars: 1, with an average price of: 750.0€, an average mileage of: 280000.0 and it has 9.0 average features.
+Audi S4 saloon / sedan - total cars: 1, with an average price of: 3700.0€, an average mileage of: N/A and it has 13.5 average features.
