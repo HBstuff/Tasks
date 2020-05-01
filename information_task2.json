@@ -1,0 +1,3689 @@
+{
+  "car": [
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": "279000",
+      "Price": "3999",
+      "Features": {
+        "Interior": [
+          "Heated seats",
+          "Leather seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "ESP",
+          "ISOFIX mounts"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A8",
+      "Model": "saloon / sedan",
+      "Mileage": "107000",
+      "Price": "15000",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats",
+          "Panoramic roof",
+          "Ventilated seats",
+          "Electric seats with memory"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Electrically adjustable steering wheel",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Keyless entry system",
+          "Cruise control",
+          "Heated windshield",
+          "Start-Stop system",
+          "Voice commands",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm",
+          "Armoured"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "LED headlights",
+          "Fog lights",
+          "Automatic folding mirrors",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "For exchange",
+          "Available for leasing",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Adaptive Cruise Control",
+          "Road sign recognition",
+          "ISOFIX mounts",
+          "High beam assist",
+          "Dynamic cornering lights",
+          "Rear view camera"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "saloon / sedan",
+      "Mileage": "130000",
+      "Price": "25499",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Electric seats",
+          "Electric seats with memory"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Electrically adjustable steering wheel",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Start-Stop system",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "AUX input",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ],
+        "Other features": [
+          "Available for leasing",
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Adaptive Cruise Control",
+          "Blind Spot Detection",
+          "Lane Departure Warning",
+          "Road sign recognition",
+          "ISOFIX mounts",
+          "Collision prevention assist",
+          "High beam assist",
+          "Dynamic cornering lights",
+          "Rear view camera"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": "258000",
+      "Price": "3250",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Leather seats",
+          "Sunroof",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Exterior": [
+          "Tow hook"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "186000",
+      "Price": "4500",
+      "Features": {
+        "Interior": [
+          "Leather seats"
+        ]
+      }
+    },
+    {
+      "Make": "Audi Q7",
+      "Model": "suv / off-road",
+      "Mileage": "234000",
+      "Price": "7700",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Electric seats",
+          "Auxiliary heating",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Electrically adjustable steering wheel",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Heated windshield",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "AUX input"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers",
+          "Automatic folding mirrors"
+        ],
+        "Other features": [
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A8",
+      "Model": "saloon / sedan",
+      "Mileage": "289000",
+      "Price": "12950",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Electric seats",
+          "Electric seats with memory"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Electrically adjustable steering wheel",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Start-Stop system",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "Additional audio equipment",
+          "CD changer",
+          "AUX input",
+          "DVD player",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "LED headlights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers",
+          "Automatic folding mirrors",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Available for leasing",
+          "Service book",
+          "Catalytic converter",
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "ESP",
+          "Hill-start assist control",
+          "Road sign recognition",
+          "High beam assist",
+          "Dynamic cornering lights"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "saloon / sedan",
+      "Mileage": "85000",
+      "Price": "18999",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats",
+          "Electric seats with memory",
+          "Heated steering wheel"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Electrically adjustable steering wheel",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Keyless entry system",
+          "Cruise control",
+          "Voice commands",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "Additional audio equipment",
+          "CD changer",
+          "AUX input",
+          "Subwoofer",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "LED headlights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers",
+          "Automatic folding mirrors",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Available for leasing",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control",
+          "Blind Spot Detection",
+          "ISOFIX mounts",
+          "Dynamic cornering lights",
+          "Rear view camera"
+        ]
+      }
+    },
+    {
+      "Make": "Audi Q7",
+      "Model": "suv / off-road",
+      "Mileage": "263000",
+      "Price": "25900",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Electric seats",
+          "Electric seats with memory",
+          "Boot cover",
+          "Heated steering wheel"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Heated windshield",
+          "Start-Stop system",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "Subwoofer",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "LED headlights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Available for leasing",
+          "Service book",
+          "Catalytic converter",
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "ESP",
+          "Hill-start assist control",
+          "Adaptive Cruise Control",
+          "Lane Departure Warning",
+          "Road sign recognition",
+          "Collision prevention assist",
+          "High beam assist",
+          "Dynamic cornering lights",
+          "Rear view camera"
+        ]
+      }
+    },
+    {
+      "Make": "Audi S8",
+      "Model": "saloon / sedan",
+      "Mileage": "144000",
+      "Price": "37000",
+      "Features": {
+        "Tuning (improvements)": [
+          "Increased engine power"
+        ],
+        "Other features": [
+          "For exchange",
+          "Service book"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": "300000",
+      "Price": "2400",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Sunroof"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Cruise control"
+        ],
+        "Security": [
+          "Immobilizer"
+        ],
+        "Audio/video equipment": [
+          "MP3 player",
+          "CD changer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights",
+          "Tow hook"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Catalytic converter",
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Rear view camera"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": null,
+      "Price": "3350",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Heated mirrors"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "AUX input"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Catalytic converter",
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": null,
+      "Price": "3650",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Electric seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Heated mirrors",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "Subwoofer",
+          "USB input"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights",
+          "Roof racks",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Catalytic converter",
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi TT",
+      "Model": "coupe",
+      "Mileage": "230000",
+      "Price": "5750",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Heated seats",
+          "Leather seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Rainfall sensor",
+          "Cruise control",
+          "LCD monitor"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "USB input"
+        ],
+        "Tuning (improvements)": [
+          "Spoilers"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "LED headlights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book"
+        ],
+        "Safety": [
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "saloon / sedan",
+      "Mileage": "115000",
+      "Price": "15499",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats",
+          "Electric seats with memory"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Keyless entry system",
+          "Cruise control",
+          "Voice commands",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "Xenon lights"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Imported from US",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "ESP",
+          "ISOFIX mounts",
+          "High beam assist",
+          "Rear view camera"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "saloon / sedan",
+      "Mileage": "264000",
+      "Price": "2650",
+      "Features": {
+        "Interior": [
+          "Heated seats",
+          "Leather seats"
+        ],
+        "Electronics": [
+          "On-board computer",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Audio/video equipment": [
+          "Additional audio equipment"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Tow hook",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Service book"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "saloon / sedan",
+      "Mileage": null,
+      "Price": "3350",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Leather seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Cruise control"
+        ],
+        "Security": [
+          "Immobilizer"
+        ],
+        "Audio/video equipment": [
+          "CD player"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "274000",
+      "Price": "3400",
+      "Features": {
+        "Features": null
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": "258000",
+      "Price": "3950",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Service book"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "saloon / sedan",
+      "Mileage": "216000",
+      "Price": "4200",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Available for leasing",
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "ESP",
+          "ISOFIX mounts"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "saloon / sedan",
+      "Mileage": "292110",
+      "Price": "4500",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "CD changer",
+          "Subwoofer",
+          "DVD player"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Automatic folding mirrors"
+        ],
+        "Other features": [
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Dynamic cornering lights"
+        ],
+        "Minivan features": [
+          "Reclining seats"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "354100",
+      "Price": "4900",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Electric seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Heated mirrors",
+          "Cruise control",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "Subwoofer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Roof racks",
+          "Set of winter tyres"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": "162000",
+      "Price": "4999",
+      "Features": {
+        "Interior": [
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Cruise control",
+          "Start-Stop system"
+        ],
+        "Security": [
+          "Immobilizer"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "AUX input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "LED headlights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers",
+          "Automatic folding mirrors"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control",
+          "ISOFIX mounts"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6 ALLROAD",
+      "Model": "wagon",
+      "Mileage": null,
+      "Price": "6450",
+      "Features": {
+        "Features": null
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "254000",
+      "Price": "8000",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Electrically adjustable steering wheel",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Voice commands",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "Additional audio equipment",
+          "CD changer",
+          "AUX input",
+          "Handsfree kit"
+        ],
+        "Tuning (improvements)": [
+          "Spoilers",
+          "Increased engine power",
+          "Tuned suspension",
+          "Tuned interior"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers",
+          "Roof racks",
+          "Automatic folding mirrors",
+          "Set of winter tyres"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "ISOFIX mounts"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "230000",
+      "Price": "8350",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Electric seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Keyless entry system",
+          "Cruise control",
+          "Start-Stop system",
+          "LCD monitor"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "Subwoofer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Warranty",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": "125000",
+      "Price": "8400",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "AUX input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights",
+          "Roof racks",
+          "Automatic folding mirrors",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book"
+        ],
+        "Safety": [
+          "ESP",
+          "ISOFIX mounts"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "saloon / sedan",
+      "Mileage": "108000",
+      "Price": "8600",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats",
+          "Electric seats with memory"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Electrically adjustable steering wheel",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Keyless entry system",
+          "Cruise control",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "Subwoofer",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED headlights",
+          "Xenon lights",
+          "Automatic folding mirrors"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Imported from US",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Blind Spot Detection",
+          "ISOFIX mounts",
+          "Rear view camera"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "25000",
+      "Price": "9500",
+      "Features": {
+        "Features": null
+      }
+    },
+    {
+      "Make": "Audi A5 SPORTBACK",
+      "Model": "hatchback",
+      "Mileage": null,
+      "Price": "9500",
+      "Features": {
+        "Features": null
+      }
+    },
+    {
+      "Make": "Audi Q7",
+      "Model": "suv / off-road",
+      "Mileage": null,
+      "Price": "10500",
+      "Features": {
+        "Features": null
+      }
+    },
+    {
+      "Make": "Audi Q5",
+      "Model": "suv / off-road",
+      "Mileage": "165000",
+      "Price": "12900",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats",
+          "Panoramic roof",
+          "Electric seats with memory",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Keyless entry system",
+          "Cruise control",
+          "Voice commands",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "Additional audio equipment",
+          "AUX input",
+          "Subwoofer",
+          "DVD player",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Roof racks",
+          "Automatic folding mirrors"
+        ],
+        "Other features": [
+          "Imported from US",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control",
+          "ISOFIX mounts",
+          "Rear view camera"
+        ]
+      }
+    },
+    {
+      "Make": "Audi Q7",
+      "Model": "suv / off-road",
+      "Mileage": "80000",
+      "Price": "14500",
+      "Features": {
+        "Features": null
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "11000",
+      "Price": "14800",
+      "Features": {
+        "Features": null
+      }
+    },
+    {
+      "Make": "Audi SQ5",
+      "Model": "suv / off-road",
+      "Mileage": "93000",
+      "Price": "18900",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats",
+          "Panoramic roof",
+          "Electric seats with memory",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Keyless entry system",
+          "Cruise control",
+          "Voice commands",
+          "Paddle shifters",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "Additional audio equipment",
+          "AUX input",
+          "Subwoofer",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers",
+          "Automatic folding mirrors"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Imported from US",
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "ESP",
+          "Hill-start assist control",
+          "ISOFIX mounts",
+          "Dynamic cornering lights",
+          "Rear view camera"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "20000",
+      "Price": "19700",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Electrically adjustable steering wheel",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Keyless entry system",
+          "Cruise control",
+          "Start-Stop system",
+          "Voice commands",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Audio/video equipment": [
+          "MP3 player",
+          "AUX input",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "LED headlights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Automatic folding mirrors"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control",
+          "Adaptive Cruise Control",
+          "Blind Spot Detection",
+          "Lane Departure Warning",
+          "Road sign recognition",
+          "ISOFIX mounts",
+          "Collision prevention assist",
+          "High beam assist",
+          "Dynamic cornering lights",
+          "Rear view camera",
+          "Front view camera",
+          "360\u00b0 degree camera"
+        ],
+        "Minivan features": [
+          "Reclining seats",
+          "Personal illumination"
+        ]
+      }
+    },
+    {
+      "Make": "Audi Q7",
+      "Model": "suv / off-road",
+      "Mileage": "120000",
+      "Price": "19800",
+      "Features": {
+        "Interior": [
+          "Heated seats",
+          "Leather seats",
+          "Electric seats",
+          "Auxiliary heating"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Cruise control"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Automatic folding mirrors",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Service book"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": null,
+      "Price": "500",
+      "Features": {
+        "Features": null
+      }
+    },
+    {
+      "Make": "Audi 80",
+      "Model": "saloon / sedan",
+      "Mileage": null,
+      "Price": "500",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Sunroof"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Heated mirrors"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Tow hook"
+        ]
+      }
+    },
+    {
+      "Make": "Audi 100",
+      "Model": "saloon / sedan",
+      "Mileage": "280000",
+      "Price": "750",
+      "Features": {
+        "Interior": [
+          "Heated seats",
+          "Sunroof"
+        ],
+        "Electronics": [
+          "Electric mirrors"
+        ],
+        "Exterior": [
+          "Fog lights",
+          "Tow hook"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "296000",
+      "Price": "750",
+      "Features": {
+        "Exterior": [
+          "Light alloy rims"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": null,
+      "Price": "780",
+      "Features": {
+        "Electronics": [
+          "Electric mirrors",
+          "Rainfall sensor"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": null,
+      "Price": "800",
+      "Features": {
+        "Interior": [
+          "Heated seats"
+        ],
+        "Other features": [
+          "Service book"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": null,
+      "Price": "800",
+      "Features": {
+        "Interior": [
+          "Heated seats",
+          "Electric seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Cruise control"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player"
+        ],
+        "Exterior": [
+          "Headlights washers"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": "264000",
+      "Price": "850",
+      "Features": {
+        "Audio/video equipment": [
+          "CD player"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ]
+      }
+    },
+    {
+      "Make": "Audi 80",
+      "Model": "saloon / sedan",
+      "Mileage": "272132",
+      "Price": "950",
+      "Features": {
+        "Security": [
+          "Alarm"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "230000",
+      "Price": "999",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ],
+        "Other features": [
+          "Available for leasing"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "273326",
+      "Price": "1000",
+      "Features": {
+        "Interior": [
+          "Leather seats"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "292727",
+      "Price": "1300",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Multifunctional steering wheel",
+          "Leather seats",
+          "Electric seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "LCD monitor"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "CD changer",
+          "AUX input",
+          "Subwoofer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Roof racks",
+          "Set of winter tyres"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "386075",
+      "Price": "1400",
+      "Features": {
+        "Interior": [
+          "Tinted windows"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Heated mirrors"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "MP3 player",
+          "Additional audio equipment",
+          "AUX input",
+          "Subwoofer",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook"
+        ]
+      }
+    },
+    {
+      "Make": "Audi 80",
+      "Model": "saloon / sedan",
+      "Mileage": null,
+      "Price": "1450",
+      "Features": {
+        "Interior": [
+          "Sunroof"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Tow hook",
+          "Set of winter tyres"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": null,
+      "Price": "1500",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Heated seats",
+          "Leather seats",
+          "Electric seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Audio/video equipment": [
+          "CD player"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights",
+          "Tow hook",
+          "Roof racks",
+          "Set of winter tyres"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "423500",
+      "Price": "1550",
+      "Features": {
+        "Interior": [
+          "Leather seats",
+          "Electric seats"
+        ],
+        "Electronics": [
+          "On-board computer",
+          "Heated mirrors",
+          "Cruise control"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": null,
+      "Price": "1650",
+      "Features": {
+        "Electronics": [
+          "Electric mirrors"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": null,
+      "Price": "1890",
+      "Features": {
+        "Interior": [
+          "Electric seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Available for leasing",
+          "Service book"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": "259000",
+      "Price": "2099",
+      "Features": {
+        "Interior": [
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ISOFIX mounts"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A8",
+      "Model": "saloon / sedan",
+      "Mileage": "303677",
+      "Price": "2350",
+      "Features": {
+        "Features": null
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": "231000",
+      "Price": "2350",
+      "Features": {
+        "Interior": [
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Cruise control"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights"
+        ],
+        "Other features": [
+          "Available for leasing"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "294000",
+      "Price": "2600",
+      "Features": {
+        "Interior": [
+          "Heated seats",
+          "Leather seats"
+        ],
+        "Electronics": [
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Tow hook"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "330000",
+      "Price": "2850",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Leather seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Cruise control"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights"
+        ],
+        "Other features": [
+          "Available for leasing"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "240000",
+      "Price": "2950",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Cruise control"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "MP3 player",
+          "AUX input",
+          "USB input"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Catalytic converter",
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": "158000",
+      "Price": "2950",
+      "Features": {
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "Subwoofer",
+          "USB input"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Available for leasing",
+          "Service book",
+          "Catalytic converter"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "390570",
+      "Price": "3100",
+      "Features": {
+        "Other features": [
+          "Not exploited in Lithuania"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "234000",
+      "Price": "3150",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Cruise control"
+        ],
+        "Security": [
+          "Immobilizer"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "Subwoofer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "ISOFIX mounts"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "saloon / sedan",
+      "Mileage": "270000",
+      "Price": "3200",
+      "Features": {
+        "Interior": [
+          "Heated seats",
+          "Leather seats"
+        ],
+        "Electronics": [
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": "145000",
+      "Price": "3300",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors"
+        ],
+        "Security": [
+          "Immobilizer"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Warranty"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": "242234",
+      "Price": "3500",
+      "Features": {
+        "Features": null
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "350000",
+      "Price": "3700",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Cruise control",
+          "Voice commands",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "CD changer",
+          "Subwoofer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A8",
+      "Model": "saloon / sedan",
+      "Mileage": null,
+      "Price": "3700",
+      "Features": {
+        "Interior": [
+          "Heated seats",
+          "Leather seats",
+          "Electric seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights"
+        ],
+        "Other features": [
+          "Available for leasing"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi S4",
+      "Model": "saloon / sedan",
+      "Mileage": null,
+      "Price": "3700",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats",
+          "Electric seats with memory"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player"
+        ],
+        "Other features": [
+          "For exchange"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": "279826",
+      "Price": "3700",
+      "Features": {
+        "Electronics": [
+          "Cruise control"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ],
+        "Other features": [
+          "Service book"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "205000",
+      "Price": "3750",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Heated seats",
+          "Leather seats",
+          "Electric seats with memory",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "LED headlights",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Roof racks",
+          "Automatic folding mirrors",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Service book",
+          "Multiple key sets"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "296000",
+      "Price": "3800",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "285000",
+      "Price": "3800",
+      "Features": {
+        "Interior": [
+          "Heated seats",
+          "Auxiliary heating"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Heated mirrors",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ],
+        "Other features": [
+          "Service book"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": "284000",
+      "Price": "3800",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Leather seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Heated mirrors"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "Subwoofer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights"
+        ],
+        "Other features": [
+          "For exchange",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "saloon / sedan",
+      "Mileage": "332000",
+      "Price": "3850",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Leather seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "LCD monitor"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "305000",
+      "Price": "3950",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats",
+          "Electric seats with memory",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Electrically adjustable steering wheel",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm",
+          "Satellite tracking system"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "Subwoofer",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "LED headlights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers",
+          "Roof racks",
+          "Automatic folding mirrors"
+        ],
+        "Other features": [
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Dynamic cornering lights"
+        ],
+        "Minivan features": [
+          "Reclining seats",
+          "Personal illumination"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": "255000",
+      "Price": "3999",
+      "Features": {
+        "Interior": [
+          "Tinted windows"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Paddle shifters",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "Subwoofer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights",
+          "Headlights washers",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "280000",
+      "Price": "4150",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Catalytic converter",
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": "286173",
+      "Price": "4200",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Cruise control"
+        ],
+        "Security": [
+          "Immobilizer"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "Subwoofer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights",
+          "Set of winter tyres"
+        ],
+        "Safety": [
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6 ALLROAD",
+      "Model": "wagon",
+      "Mileage": null,
+      "Price": "4300",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Electric seats",
+          "Electric seats with memory",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "Subwoofer",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights",
+          "Headlights washers",
+          "Roof racks"
+        ],
+        "Other features": [
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control"
+        ],
+        "Minivan features": [
+          "Reclining seats",
+          "Personal ventilation",
+          "Personal illumination"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "saloon / sedan",
+      "Mileage": "310000",
+      "Price": "4400",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Leather seats",
+          "Electric seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights"
+        ],
+        "Other features": [
+          "Service book"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "335000",
+      "Price": "4600",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Leather seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "CD changer",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers",
+          "Roof racks",
+          "Set of winter tyres"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6 ALLROAD",
+      "Model": "wagon",
+      "Mileage": "345000",
+      "Price": "4745",
+      "Features": {
+        "Interior": [
+          "Heated seats",
+          "Leather seats"
+        ],
+        "Electronics": [
+          "Cruise control"
+        ],
+        "Exterior": [
+          "Light alloy rims"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": null,
+      "Price": "4777",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED headlights",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A8",
+      "Model": "saloon / sedan",
+      "Mileage": null,
+      "Price": "4800",
+      "Features": {
+        "Interior": [
+          "Heated seats",
+          "Leather seats",
+          "Electric seats",
+          "Auxiliary heating",
+          "Ventilated seats",
+          "Electric seats with memory"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Electrically adjustable steering wheel",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Keyless entry system",
+          "Cruise control",
+          "Heated windshield",
+          "Start-Stop system",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights"
+        ],
+        "Other features": [
+          "Available for leasing",
+          "Service book"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control"
+        ]
+      }
+    },
+    {
+      "Make": "Audi Q7",
+      "Model": "suv / off-road",
+      "Mileage": "170000",
+      "Price": "4800",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats",
+          "Panoramic roof",
+          "Electric seats with memory"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Cruise control",
+          "Heated windshield",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "Subwoofer",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Imported from US",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "ESP",
+          "Rear view camera"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6 ALLROAD",
+      "Model": "wagon",
+      "Mileage": null,
+      "Price": "4850",
+      "Features": {
+        "Interior": [
+          "Sport seats",
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Auxiliary heating",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Voice commands",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "Subwoofer",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED headlights",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Roof racks"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Available for leasing",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control",
+          "ISOFIX mounts"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "288000",
+      "Price": "4999",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Electric seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Voice commands",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "LED headlights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers",
+          "Roof racks",
+          "Automatic folding mirrors"
+        ],
+        "Other features": [
+          "Service book",
+          "Catalytic converter",
+          "Multiple key sets"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": null,
+      "Price": "5100",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Electric seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "Paddle shifters",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights"
+        ],
+        "Other features": [
+          "Available for leasing",
+          "Service book"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A3",
+      "Model": "hatchback",
+      "Mileage": "218562",
+      "Price": "5200",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Heated seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Cruise control"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "AUX input",
+          "Subwoofer",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Available for leasing",
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "ISOFIX mounts"
+        ]
+      }
+    },
+    {
+      "Make": "Audi Q7",
+      "Model": "suv / off-road",
+      "Mileage": "120000",
+      "Price": "5200",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Heated seats",
+          "Leather seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Heated mirrors",
+          "Cruise control",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "CD changer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "Xenon lights",
+          "Fog lights"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Imported from US",
+          "Catalytic converter"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": "248751",
+      "Price": "5200",
+      "Features": {
+        "Interior": [
+          "Heated seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "Rainfall sensor",
+          "Parking sensors",
+          "Cruise control",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "CD changer",
+          "AUX input",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Fog lights",
+          "Automatic folding mirrors",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Service book",
+          "Catalytic converter",
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "291",
+      "Price": "5500",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Electric seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Parking sensors",
+          "Voice commands"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Exterior": [
+          "Fog lights"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": null,
+      "Price": "5700",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Heated seats",
+          "Electric seats"
+        ],
+        "Electronics": [
+          "Parking sensors"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "AUX input"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": "257000",
+      "Price": "6200",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Leather seats",
+          "Electric seats",
+          "Auxiliary heating",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Cruise control",
+          "Heated windshield",
+          "LCD monitor"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "AUX input",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "LED headlights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Set of winter tyres"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Adaptive Cruise Control",
+          "Dynamic cornering lights"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6 ALLROAD",
+      "Model": "wagon",
+      "Mileage": "270000",
+      "Price": "6200",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats",
+          "Auxiliary heating",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Electric boot lid",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "Subwoofer"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "Xenon lights",
+          "Fog lights",
+          "Tow hook",
+          "Headlights washers",
+          "Roof racks"
+        ],
+        "Other features": [
+          "Catalytic converter",
+          "Multiple key sets"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A6",
+      "Model": "wagon",
+      "Mileage": "267000",
+      "Price": "6500",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "Rainfall sensor",
+          "Cruise control",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP",
+          "Hill-start assist control"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "saloon / sedan",
+      "Mileage": "153000",
+      "Price": "6600",
+      "Features": {
+        "Interior": [
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Sunroof",
+          "Electric seats"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Electrically adjustable steering wheel",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer",
+          "Alarm"
+        ],
+        "Audio/video equipment": [
+          "CD player",
+          "MP3 player",
+          "CD changer",
+          "AUX input",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED headlights",
+          "Fog lights"
+        ],
+        "Other features": [
+          "Available for leasing",
+          "Service book"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    },
+    {
+      "Make": "Audi A4",
+      "Model": "wagon",
+      "Mileage": "198000",
+      "Price": "6999",
+      "Features": {
+        "Interior": [
+          "Tinted windows",
+          "Multifunctional steering wheel",
+          "Heated seats",
+          "Leather seats",
+          "Boot cover"
+        ],
+        "Electronics": [
+          "Electric mirrors",
+          "Automatic headlamps",
+          "On-board computer",
+          "Rainfall sensor",
+          "Heated mirrors",
+          "Parking sensors",
+          "Cruise control",
+          "LCD monitor",
+          "Navigation/GPS"
+        ],
+        "Security": [
+          "Immobilizer"
+        ],
+        "Audio/video equipment": [
+          "MP3 player",
+          "AUX input",
+          "DVD player",
+          "USB input",
+          "Handsfree kit"
+        ],
+        "Exterior": [
+          "Light alloy rims",
+          "LED daytime running lights",
+          "Xenon lights",
+          "Fog lights",
+          "Headlights washers",
+          "Automatic folding mirrors"
+        ],
+        "Other features": [
+          "Not exploited in Lithuania",
+          "Service book",
+          "Catalytic converter"
+        ],
+        "Safety": [
+          "Traction control system",
+          "ESP"
+        ]
+      }
+    }
+  ]
+}
