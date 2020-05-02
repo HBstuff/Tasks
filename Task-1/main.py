@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as soup
 import json
 
 # image folder location
-image_folder_location = 'C:/Users/henri/OneDrive/Desktop/Images/'
+image_folder_location = 'C:/Images/'
 
 my_url = 'https://mekass.wixsite.com/website'
 more_pages_available = True
